@@ -17,8 +17,7 @@ included in each repository controls.
 
 <p>
 <strong><a href="https://github.com/SharpClaw-NET">@SharpClaw-NET</a></strong><br>
-SharpClaw is a local-first agent workspace and runtime that combines provider<br>
-abstraction, hot-loadable modules, resumable tasks, permissioned tool execution,<br>
-persistence, audit trails, and optional desktop or gateway frontends in one<br>
-.NET platform.
+SharpClaw is an “everything is a plugin” C# AI workspace with built-in<br>
+database support and a modular frontend. Its gateway can expose a public API<br>
+or serve as the backend for a remote SharpClaw instance.
 </p>
