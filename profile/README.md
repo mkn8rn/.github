@@ -10,7 +10,8 @@ prototypes, and unfinished ideas live here in whatever state they reached.
 <p>
 <strong><a href="https://github.com/supprocom">@Supprocom</a></strong><br>
 Projects grouped by their intended role as reusable components, libraries,<br>
-and tools rather than one-off application code. Unless a repository states<br>
-otherwise, its software is offered under <code>AGPL-3.0</code>; the license<br>
-included in each repository controls.
+and tools rather than one-off application code. Each project is available<br>
+under <code>AGPL-3.0</code>, or under the Supprocom Commercial License for<br>
+businesses that <a href="https://github.com/sponsors/Supprocom">sponsor Supprocom</a>.
+See <a href="https://github.com/supprocom">its profile</a> for the rules and a FAQ.
 </p>
